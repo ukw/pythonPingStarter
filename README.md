@@ -26,10 +26,10 @@ Made by ukw.
   
 Thanks. 
  
-If you find this useful buy me a beer in crypto: 
-ETH Address: 0x339f49bfcc21f1d605909811e9492cb34da3f2fb 
-ZEC Address: t1gcZMApJnNHHmcVboXRUVFYtVQcLVBLfDw 
-BTC Address: 12Rcu5sL95fJnhmvwZ2TAkJ7U5HSGMV6rC 
-DGE Address: DBxxN6bhARgRzGCpx8BraWAxzBdGubzf27 
-LTC Address: LYYPdCM9pNj8jxXDKAkR5wDNsx4hYa7DRC 
-DSH Address: XwpTSGQw4BG6in2jFvf9FR5gS8WD6MWdB1 
+If you find this useful buy me a beer in crypto:   
+ETH Address: 0x339f49bfcc21f1d605909811e9492cb34da3f2fb   
+ZEC Address: t1gcZMApJnNHHmcVboXRUVFYtVQcLVBLfDw    
+BTC Address: 12Rcu5sL95fJnhmvwZ2TAkJ7U5HSGMV6rC    
+DGE Address: DBxxN6bhARgRzGCpx8BraWAxzBdGubzf27   
+LTC Address: LYYPdCM9pNj8jxXDKAkR5wDNsx4hYa7DRC   
+DSH Address: XwpTSGQw4BG6in2jFvf9FR5gS8WD6MWdB1   
